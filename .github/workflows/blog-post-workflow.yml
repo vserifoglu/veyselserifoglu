@@ -13,8 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Pull in substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://vserifoglu.substack.com/feed"
+        
+      - name: Start tmate session for debugging
+        if: failure() # Only start tmate if the previous step fails
+        uses: mxschmitt/action-tmate@v3
 
