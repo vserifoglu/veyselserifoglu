@@ -8,7 +8,7 @@
 
 <p align="center"> When I'm not coding or blogging, I like to workout and play football. I am based in Istanbul, Turkey, and I speak English and Arabic fluently, With some Turkish flavor.<br><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=veyselserifoglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="20%" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=veyselserifoglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="15%" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
