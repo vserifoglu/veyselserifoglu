@@ -6,7 +6,7 @@
 
 <p align="center">I bring a blend of technical expertise and a passion for learning new technologies. My journey has led me through diverse projects, from fuel pump automation systems to cutting-edge delivery and e-commerce applications, consistently enhancing system reliability and performance.<br> 
 
-<p align="center"> When I'm not coding or blogging, I like to workout and play football. I am based in Istanbul, Turkey, and I speak English and Arabic fluently, With some Turkish flavor.<br><br>
+<p align="center"> When I'm not coding or blogging, I like to workout and play football. I am based in Ingolstadt, Germany, and I speak English and Arabic fluently, With some Turkish and German flavor.<br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=veyselserifoglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" width="15%" /> </p>
 
