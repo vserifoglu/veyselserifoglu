@@ -1,4 +1,4 @@
-![GitHub Banner](/static/images/welcome_screen.png)
+![GitHub Banner](/static/images/github_banner.png)
 
 <h1 align="center">I'm Veysel!</h1>
 
