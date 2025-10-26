@@ -39,6 +39,3 @@
 <!-- # Blog posts currently is not working for substacks - working on a workaround-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veyselserifoglu&show_icons=true&locale=en&hide=contribs,prs" alt="veyselserifoglu" /></p>
